@@ -6,6 +6,7 @@ function MainContent() {
             <h1 className="main--title">Welcome to my website!</h1>
             <p className="main--text">There is nothing here.</p>
             <img className="boats" src={Boats} width="50%"></img>
+            <p>My GitHub is https://github.com/iris-z-hang</p>
         </div>
 
     )
